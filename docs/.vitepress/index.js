@@ -1,5 +1,5 @@
 export default {
-  base: "/ning-guang",
+  base: "/ning-guang/",
   title: "",
   description: "",
 };
